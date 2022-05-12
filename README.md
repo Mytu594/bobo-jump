@@ -1,5 +1,7 @@
 ## Welcome to GitHub Pages
 
+https://mytu594.github.io/bobo-jump/
+
 You can use the [editor on GitHub](https://github.com/llyu0966/bobo-jump/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
